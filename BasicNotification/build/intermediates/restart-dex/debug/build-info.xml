@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="11098343701789"
+    token="-7014082735930220305"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="65" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="44" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="D:\BlogForMe\android-auto-update-master\BasicNotification\build\outputs\apk\BasicNotification-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="11098343701789"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\BlogForMe\android-auto-update-master\BasicNotification\build\outputs\apk\BasicNotification-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

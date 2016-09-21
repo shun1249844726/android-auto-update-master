@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_stat_notification.png",
+        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-mdpi\\ic_stat_notification.png"
+    },
+    {
+        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

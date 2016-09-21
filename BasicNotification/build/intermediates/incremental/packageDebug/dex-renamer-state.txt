@@ -1,0 +1,7 @@
+#Wed Sep 21 18:01:37 CST 2016
+base.0=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fe33f1cdde46c8e79154508b41bc274053bd992e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_668acb934c69be2ea11f76d0a889f1635904ab56\\classes.dex
+base.1=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_668acb934c69be2ea11f76d0a889f1635904ab56
+file.0=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_fe33f1cdde46c8e79154508b41bc274053bd992e\\classes.dex

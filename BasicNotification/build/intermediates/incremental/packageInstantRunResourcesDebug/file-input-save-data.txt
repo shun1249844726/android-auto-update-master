@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Sep 21 18:01:29 CST 2016
+2.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\images.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_stat_notification.png
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v11\\ic_stat_notification.png
+5.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tile.9.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\sample_layout.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v9\\ic_stat_notification.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
