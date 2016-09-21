@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\layout\\sample_layout.xml",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\layout\\sample_layout.xml"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\layout\\sample_layout.xml",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\layout\\sample_layout.xml"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/layout/sample_layout.xml",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/layout/sample_layout.xml"
     }
 ]

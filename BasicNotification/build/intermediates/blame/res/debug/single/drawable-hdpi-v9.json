@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v9\\ic_stat_notification.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi-v9\\ic_stat_notification.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v9\\ic_stat_notification.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi-v9\\ic_stat_notification.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-hdpi-v9/ic_stat_notification.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-hdpi-v9/ic_stat_notification.png"
     }
 ]

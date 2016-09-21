@@ -1,18 +1,34 @@
 [
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stat_notification.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\ic_stat_notification.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stat_notification.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\ic_stat_notification.png"
     },
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-hdpi/tile.9.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-hdpi/tile.9.png"
     },
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\images.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\images.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-hdpi/ic_stat_notification.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-hdpi/ic_stat_notification.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\images.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-hdpi\\images.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-hdpi/images.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-hdpi/images.png"
     }
 ]

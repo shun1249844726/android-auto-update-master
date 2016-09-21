@@ -1,6 +1,10 @@
 [
     {
-        "merged": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
-        "source": "D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/D:\\BlogForMe\\android-auto-update-master\\BasicNotification\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/jon/Android/NoteForMe/android-auto-update-master/BasicNotification/src/main/res/drawable-xxhdpi/ic_launcher.png"
     }
 ]
