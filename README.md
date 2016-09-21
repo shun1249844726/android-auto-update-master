@@ -52,4 +52,6 @@ Android应用自动更新库(android-auto-update)
 
 2. [UpdateChecker](https://github.com/rampo/UpdateChecker "https://github.com/rampo/UpdateChecker") 该项目检查的是google play上的应用，如果有更新打开google Play,不提供下载apk的功能
 
+#android-auto-update-master
+
  
